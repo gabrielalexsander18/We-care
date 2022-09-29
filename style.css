@@ -26,6 +26,14 @@ header {
     margin-right: 23px;
 }
 
+.link-header:hover {
+    opacity: .5;
+}
+
+.link-header:active {
+    opacity: .8;
+}
+
 .button-login {
     background: #665AE1;
     border-radius: 20.5px;
@@ -37,6 +45,14 @@ header {
     color: #FFFFFF;
     border: none;
     cursor: pointer;
+}
+
+button:hover {
+    opacity: .7;
+}
+
+button:active {
+    opacity: .4;
 }
 
 .paragrafo-wecare {
@@ -82,3 +98,47 @@ p {
     filter: drop-shadow(0px 4px 4px rgba(0, -0, -0, -0.25));
 }
 
+@media screen and (max-width: 650px) {
+
+    .img-logo {
+        margin: 149px 22px 0 14px;
+        width: 354px;
+        height: 317px;
+        display: block;
+    }
+
+    .paragrafo-wecare {
+        display: block;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        display: none;
+    }
+
+    h1 {
+        margin: 24px 63px 0 64px;
+        font-size: 50px;
+        line-height: 61px;
+        width: 263px;
+        height: 52px;
+    }
+
+    h2 {
+        margin: 7px 55px 0;
+        font-size: 30px;
+        line-height: 37px;
+        width: 280px;
+        height: 37px;
+    }
+
+    p {
+        display: none;
+    }
+    
+
+    .button-Explore {
+        margin: 17px auto 0;
+        display: block;
+    }
+}
