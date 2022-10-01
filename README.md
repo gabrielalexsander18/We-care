@@ -25,6 +25,6 @@ que coloquei em pratica nos outros projetos, e isso tudo aprendi no
    <p>
 <br> 
     
-<img align="left" width="700px" alt="layout-desktop" src="https://github.com/gabrielalexsander18/We-care/blob/master/img/desktop.png?raw=true">
+<img align="left" width="500px" alt="layout-desktop" src="https://github.com/gabrielalexsander18/We-care/blob/master/img/desktop.png?raw=true">
 
 <img alt="layout-mobile" height="343px" src="https://github.com/gabrielalexsander18/We-care/blob/master/img/cell.png?raw=true">
