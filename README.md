@@ -1,4 +1,4 @@
-<h1>Easy Shopping</h1>
+<h1>We Care</h1>
 <br>
 <br>
 
